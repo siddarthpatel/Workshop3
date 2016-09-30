@@ -1,0 +1,52 @@
+body{
+  padding-top:60px;
+
+}
+
+.tw-header-icons-left{
+
+  padding-top: 13px;
+}
+
+.tw-header-icon,
+.tw-header-icon:hover,
+.tw-header-icon:visited,
+.tw-header-icon:focus{
+
+  margin-right:10px;
+  color: gray;
+  text-decoration: none;
+
+}
+
+.tw-search{
+
+  border-radius : 15px;
+
+}
+
+.tw-stats{
+
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid gray;
+  border-color: #E1E8ED;
+
+
+}
+
+.tw-stats2{
+
+  margin-right:60px;
+  color:gray;
+  margin-top:10px;
+  padding-bottom:10px;
+}
+
+.panel-footer{
+ color: gray;
+}
+
+.input-bar{
+  width:100%
+}
